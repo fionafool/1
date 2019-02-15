@@ -1,2 +1,3 @@
 studying git
 second try
+first correctnew code
